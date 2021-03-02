@@ -5,7 +5,7 @@ key to press once the volume of a microphone reaches a certain threshold. Both a
 <br>
 Auto Mic is licensed under the GNU General Public License v3.0. More information on the GNU v3 license is 
 below<br>
-[LICENSE.md](./LICENSE.md)
+[LICENSE.txt](./LICENSE.txt)
 <br>
 ## So, how do I play around with it?
 
