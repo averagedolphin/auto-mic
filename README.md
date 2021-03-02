@@ -18,3 +18,7 @@ Auto Mic contains 5 Python Files. Each one is has its own purpose <br>
 `./src/keyo.py` - Keyboard output functions to press keys via the pynput module. <br>
 `./src/gui.py` - Gui Code for AutoMic, uses the tkinter module. <br>
 `./src/microphoneio.py` - Input and Output microphone functions
+
+## main.py functions
+Main.py calls the `initAutoMic()` function which calls the initialize function in driver.py
+
