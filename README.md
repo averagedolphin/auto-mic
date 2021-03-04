@@ -1,4 +1,6 @@
 # Welcome to AutoMic
+Please note that AutoMic is not finished yet.
+<br>
 Auto Mic is a open source project used to automatically use push to talk in games or chats that require push to talk. You set a 
 key to be held when the volume of a microphone reaches a certain threshold. Both volume threshold, and key pressed can be customized via the root window.
 <br>
